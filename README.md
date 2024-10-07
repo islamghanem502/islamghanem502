@@ -7,6 +7,10 @@
 
 ### 📮 **How to Reach Me: islamghanem502@gmail.com**
 
+### 🌍 Projects with my Organization:
+Check out the projects I'm working on with [TwoMindsOneCode](https://github.com/TwoMindsOneCode) organization.
+
+
 ### ⚙️ **Languages and Tools:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
