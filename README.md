@@ -3,8 +3,6 @@
 
 🐋 Welcome to my GitHub profile, where I share my journey in **Software Engineering**, and my entrepreneurial projects. I’m passionate about problem-solving, and creating innovative solutions for real-world challenges.
 
-### ଳ **Currently Learning: BackEnd**
-
 ### 📮 **How to Reach Me: islamghanem502@gmail.com**
 
 ### 🌍 Projects with my Organization:
